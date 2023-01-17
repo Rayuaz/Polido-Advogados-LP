@@ -176,10 +176,6 @@ path {
 }
 
 @media (max-width: 1200px) {
-    body {
-        padding: 16px;
-        width: 100%;
-    }
 
     .contents {
         flex-direction: column;
